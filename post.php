@@ -6,6 +6,7 @@ Include "view-header.php";
 <form method="post" action"post-result.php">
   <input type="text" name="my-name">
   <input type="submit" value="Post data">
+</form>
 <?php
 Include "view-footer.php";
 ?>
