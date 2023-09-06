@@ -20,14 +20,21 @@
           <a class="nav-link active" aria-current="page" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
+          <a class="nav-link" href="#">Post</a>
+        </li>
+         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Post result</a>
+        </li>
+         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Get</a>
+        </li>
+         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Get result</a>
         </li>
           </ul>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" aria-disabled="true">Disabled</a>
-        </li>
-      </ul>
     </div>
   </div>
 </nav>
