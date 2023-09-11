@@ -4,7 +4,7 @@ Include "view-header.php";
 ?>
     <h1>Get Result</h1>
 <?php
-echo getDisplay() {
+echo getDisplay();
 Include "view-footer.php";
 
 function getDisplay() {
