@@ -4,6 +4,8 @@ Include "view-header.php";
 ?>
     <h1>Get Result</h1>
 <?php
+echo getDisplay() {
+
 if (isset($_GET['my-name'])) {
 ?>
   <p>The value sent is:</p>
