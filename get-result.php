@@ -8,7 +8,7 @@ if (isset($_GET['my-name'])) {
 ?>
   <p>The value sent is:</p>
 <?php
-  echo $_GET['my-name];
+  echo $_GET['my-name'];
 } else {
 ?>
   <p>Nothin sent to the page</p>
