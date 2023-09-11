@@ -11,7 +11,7 @@ if (isset($_GET['my-name'])) {
   echo $_GET['my-name'];
 } else {
 ?>
-  <p>Nothin sent to the page</p>
+  <p>Nothing sent to the page</p>
 <?php
 }
 
